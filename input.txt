@@ -1,0 +1,12 @@
+7
+A 0
+S 200
+L 400
+L 100
+A 0
+S 300
+A 0
+3
+greedy G
+careful C
+tactical T

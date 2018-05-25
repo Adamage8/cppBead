@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1527210184 source:c:\cpp bead\bead3\mybead3\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	"Player.h"
+	"Field.h"
+
+1527234915 c:\cpp bead\bead3\mybead3\player.h
+	<string>
+	"Field.h"
+
+1527232207 c:\cpp bead\bead3\mybead3\field.h
+	"Player.h"
+
